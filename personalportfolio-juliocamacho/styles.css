@@ -1,0 +1,21 @@
+.navbar-dark .navbar-toggler-icon {
+    background-color: #fff; /* Hamburger menu color */
+}
+
+.header {
+    background-color: #007bff; /* Blue background */
+    color: #fff; /* White text */
+    padding: 50px 0;
+    text-align: center;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
